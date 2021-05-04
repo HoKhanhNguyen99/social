@@ -6,4 +6,5 @@
     * Ernesto Tejeda
 
 * Thomas Fossoul (thomas@niboo.com)
+* Simone Orsi <simahawk@gmail.com>
 * Phuc Tran Thanh <phuc@trobz.com>
